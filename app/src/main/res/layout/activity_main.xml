@@ -14,7 +14,7 @@
         android:id="@+id/tvHeader"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Account Summary"
+        android:text="My Profil"
         android:textSize="28sp"
         android:textStyle="bold"
         android:textColor="#1E88E5"
